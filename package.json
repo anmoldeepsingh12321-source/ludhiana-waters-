@@ -1,0 +1,19 @@
+{
+  "name": "ludhiana-waters",
+  "version": "1.0.0",
+  "description": "Ludhiana Water Complaint Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
